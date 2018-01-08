@@ -12,8 +12,6 @@ import org.json.simple.JSONObject;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 
-
-
 public class Questions {
 
 	public static void main(String[] args) {
@@ -81,5 +79,4 @@ public class Questions {
 		System.exit(0);
 
 	}
-
 }
